@@ -56,6 +56,7 @@ public class HelloController {
         names.add("JavaScript");
         model.addAttribute("names", names);
         return "hello-list";
+        //github
     }
 
 }
